@@ -1,0 +1,26 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "hello world app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoguaishou0202yy/helloworld.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Raine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoguaishou0202yy/helloworld/issues"
+  },
+  "homepage": "https://github.com/xiaoguaishou0202yy/helloworld#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
